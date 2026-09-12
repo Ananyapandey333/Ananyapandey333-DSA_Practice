@@ -19,4 +19,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ananyapandey333/Ananyapandey333-DSA_Practice/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananyapandey333/Ananyapandey333-DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananyapandey333/Ananyapandey333-DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananyapandey333/Ananyapandey333-DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ananyapandey333/Ananyapandey333-DSA_Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
